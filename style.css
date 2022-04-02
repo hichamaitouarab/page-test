@@ -1,0 +1,156 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 0px;
+    margin-right: 10px ;
+    margin-left: 10px;
+    font-weight: 400;
+    font-size: 20px;
+    border-radius: 10px;
+    background-image: url(img/about2.jpeg);
+}
+.one p{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bolder;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-align: center;
+    margin: 20px 0px;
+}
+.two ol li{
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+    color: orangered;
+    margin: 20px 60px;
+}
+.two p{
+    margin: 20px 60px;
+}
+
+span{
+    color: blue;
+    text-decoration: underline;
+}
+.gras{
+    color: green;
+    text-decoration: none;
+
+}
+.three ol li{
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+    color: green;
+    margin: 20px 60px;
+}
+.three ul li{
+    color: black;
+    text-decoration: none;
+    font-size: large;
+    margin-left: 30px;
+    margin: 20px 60px;
+}
+.three .comme{
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    margin: 20px 60px;
+}
+.four ol li{
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+    color: orangered;
+    margin: 20px 60px;
+}
+.four h3{
+    font-weight: bold;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-align: center;
+    margin: 20px 60px;
+}
+.dif{
+    display: flex;
+}
+.underline{
+    font-weight: bold;
+    text-decoration: underline;
+    color: black;
+}
+.five ol li{
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+    color: orangered;
+    margin: 20px 60px;
+}
+legend{
+    color: red;
+    font-weight: 700;
+    font-size: 30px;
+    margin: 20px 60px;
+}
+.fo th{
+    font-weight: bold;
+    border-style: hidden;
+}
+
+
+
+
+.six{
+    margin: 20px 60px;
+}
+.six ol li{
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+    color: orangered;
+}
+ .tf {
+    width: 80%;
+    margin-left: 100px;
+    text-align: center;
+    border-collapse: collapse;
+    border: dashed 2px ;
+} 
+.tf td,th {
+    border: dashed 2px ;
+
+}
+.titre1 {
+    font-weight: bold;
+    background-color: aquamarine;
+    color: red;
+
+} 
+.ta{
+    width: 80%;
+    height: 100px;
+}
+.tf th{
+    font-weight: bold;
+}
+/* .two{
+    background-color: rgba(115, 117, 117, 0.938);
+    border-radius: 10px;
+}
+.three{
+    background-color: rgba(115, 117, 117, 0.623);
+    border-radius: 10px;
+}
+.four{
+    background-color: rgba(115, 117, 117, 0.527);
+    border-radius: 10px;
+}
+.five{
+    background-color: rgba(115, 117, 117, 0.315);
+    border-radius: 10px;
+}
+.six{
+    background-color: rgba(145, 145, 145, 0.048);
+    border-radius: 10px;
+} */
